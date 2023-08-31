@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\MathGame\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\lenovo\source\repos\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Users\lenovo\source\repos\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\Users\lenovo\source\repos\MathGame\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\MathGame\MathGame\obj\Debug\MathGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Users\lenovo\source\repos\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\lenovo\source\repos\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Users\lenovo\source\repos\MathGame\MathGame\obj\Debug\MathGame.pdb

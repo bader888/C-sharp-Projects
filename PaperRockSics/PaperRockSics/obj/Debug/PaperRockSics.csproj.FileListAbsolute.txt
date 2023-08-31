@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\bin\Debug\PaperRockSics.exe.config
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\bin\Debug\PaperRockSics.exe
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\bin\Debug\PaperRockSics.pdb
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\obj\Debug\PaperRockSics.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\obj\Debug\PaperRockSics.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\obj\Debug\PaperRockSics.Properties.Resources.resources
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\obj\Debug\PaperRockSics.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\obj\Debug\PaperRockSics.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\obj\Debug\PaperRockSics.exe
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\obj\Debug\PaperRockSics.pdb
+C:\Users\lenovo\source\repos\PaperRockSics\PaperRockSics\obj\Debug\PaperRockSics.Resources.PaperRockSicsseor.resources
